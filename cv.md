@@ -36,3 +36,12 @@ function even_or_odd(number) {
   }
 }
 ```
+
+---
+
+### Courses
+- [CS50x](https://cs50.harvard.edu/x/) Introduction to Computer Science Course
+
+---
+
+
