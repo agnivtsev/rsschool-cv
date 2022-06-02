@@ -44,4 +44,6 @@ function even_or_odd(number) {
 
 ---
 
-
+### Languages
+- Russian (native speaker)
+- English (B2)
