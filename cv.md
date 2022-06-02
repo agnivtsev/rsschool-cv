@@ -1,2 +1,2 @@
 # Alexander Agnivtsev
-### Junior Frontend Developer
+### Junior Front-end Developer
