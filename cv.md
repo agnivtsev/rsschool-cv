@@ -23,4 +23,16 @@ Having experience in designing and managing complex projects both in large inter
 
 ---
 
-
+### Code Example
+Even or Odd from [Codewars](https://www.codewars.com/)<br>
+__Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers__.
+```javascript
+function even_or_odd(number) {
+  if (number % 2 == 0) {
+    return "Even";
+  }
+  else {
+    return "Odd";
+  }
+}
+```
