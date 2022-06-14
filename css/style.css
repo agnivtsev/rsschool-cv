@@ -1,0 +1,109 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Joan', serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.8;
+  color: rgb(100, 113, 80);
+}
+
+.section-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #2f2f2f;
+}
+
+.section-paragraph {
+  margin: 10px 20px;
+}
+
+.sidebar .section-paragraph {
+  margin: 10px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.title-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.profile-photo {
+  height: 180px;
+  border-radius: 50%;
+}
+
+.name-wrapper {
+  margin-left: 40px;
+}
+
+.name {
+  margin-top: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 35px;
+}
+
+.position {
+  font-size: 18px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.main-footer {
+  display: flex;
+  padding: 10px 80px;
+  justify-content: space-between;
+  background-color: beige;
+}
+
+.rsschool img {
+  width: 100px;
+}
+
+.nav-item a {
+  padding: 0 20px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 50px;
+  text-decoration: none;
+  color: rgb(100, 113, 80);
+  transition: color 0.5s;
+}
+
+.nav-item a:hover {
+  color: maroon;
+}
+
+.main-container {
+  display: flex;
+}
+
+.section {
+  margin: 40px;
+}
+
+.sidebar {
+  width: 50%;
+}
+
+.example {
+  line-height: 1;
+}
+
+.code-js {
+  display: block;
+  background-color: beige;
+}
