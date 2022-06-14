@@ -84,3 +84,12 @@ body {
 .sidebar {
   width: 50%;
 }
+
+.example {
+  line-height: 1;
+}
+
+.code-js {
+  display: block;
+  background-color: beige;
+}
