@@ -10,9 +10,9 @@ body {
 }
 
 .section-title {
+  margin: 0;
   font-size: 20px;
   font-weight: 400;
-  margin: 0;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #2f2f2f;
