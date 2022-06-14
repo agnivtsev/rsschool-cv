@@ -51,3 +51,15 @@ body {
 .nav-item a:hover {
   color: maroon;
 }
+
+.main-container {
+  display: flex;
+}
+
+.section {
+  margin: 40px;
+}
+
+.sidebar {
+  width: 50%;
+}
