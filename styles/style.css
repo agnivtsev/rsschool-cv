@@ -68,6 +68,7 @@ body {
 
 .nav-item:hover {
     border-bottom: 2px solid #A1D2C3;
+    cursor: pointer;
 }
 
 .main-page {
