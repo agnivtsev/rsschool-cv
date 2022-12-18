@@ -1,0 +1,43 @@
+body {
+    background: orange;
+}
+
+main, nav, header, footer {
+    border: 1px solid red;
+}
+
+.container {
+    width: 980px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.main-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cv-section {
+    width: 80ch;
+}
+
+.main-footer {
+    display: flex;
+}
+
+.rs-logo {
+    margin-left: auto;
+}
